@@ -27,6 +27,10 @@ Language: Bash
 Corner cases: Should be possible to run for system/root filesystem as well
 
 Solution Example:<br />
+
+Important step :  use chmod u+x script.sh to make it executable.
+<br/>
+
 ![22](https://user-images.githubusercontent.com/56585018/91430806-0c1cee00-e87d-11ea-8491-538652cde7f1.png)
 
 

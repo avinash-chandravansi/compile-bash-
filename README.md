@@ -11,7 +11,7 @@ Language: Should be written in C
 Corner cases: Should handle any character
 Condition: Should not use available libraries for linked list
 
-Solution Example :\n
+Solution Example :/n
 ![screen](https://user-images.githubusercontent.com/56585018/91430524-a4ff3980-e87c-11ea-8f15-3c02549268c7.png)
 
 # Task 2
@@ -25,10 +25,10 @@ Platform: Linux
 Language: Bash
 Corner cases: Should be possible to run for system/root filesystem as well
 
-Solution Example:\n
+Solution Example:/n
 ![22](https://user-images.githubusercontent.com/56585018/91430806-0c1cee00-e87d-11ea-8491-538652cde7f1.png)
 
 
-Regards,\n
-Avinash Chandravansi \n
+Regards,/n
+Avinash Chandravansi /n
 http://iamavinash.me
